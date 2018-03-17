@@ -72,7 +72,7 @@ a.link.active {
 }
 
 #contact-details-img {
-    padding: 20px;
+    padding: 10px;
 }
 
 /* Banner */
@@ -714,7 +714,7 @@ textarea::-ms-input-placeholder
 /*For Experience Section*/
 
 .experience{
-    background: url(../img/city.jpg) no-repeat center top fixed;
+    background: url(../img/minified/city-scaled.png) no-repeat center top fixed;
     background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
@@ -819,7 +819,7 @@ textarea::-ms-input-placeholder
 /*For Contact Section*/
 
 .contact{
-    background: url(../img/contact2.jpg) no-repeat center top fixed;
+    background: url(../img/minified/contact2-scaled.png) no-repeat center top fixed;
     background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
